@@ -1,1 +1,1 @@
-# setup-esp32-simple-code
+# How to setup ESP32 using this simple code
